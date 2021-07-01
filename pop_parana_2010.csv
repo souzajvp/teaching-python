@@ -1,417 +1,400 @@
- PopulaÁ„o Residente - Paran·
-PopulaÁ„o residente por MunicÌpio e Ano
-PerÌodo:2010
-"MunicÌpio";"2010";"Total"
-"410010 Abati·";7764;7764
-"410020 AdrianÛpolis";6376;6376
-"410030 Agudos do Sul";8270;8270
-"410040 Almirante TamandarÈ";103204;103204
-"410045 Altamira do Paran·";4306;4306
-"412862 Alto ParaÌso";3206;3206
-"410060 Alto Paran·";13663;13663
-"410070 Alto Piquiri";10179;10179
-"410050 AltÙnia";20516;20516
-"410080 Alvorada do Sul";10283;10283
-"410090 Amapor„";5443;5443
-"410100 AmpÈre";17308;17308
-"410105 Anahy";2874;2874
-"410110 Andir·";20610;20610
-"410115 ¬ngulo";2859;2859
-"410120 Antonina";18891;18891
-"410130 AntÙnio Olinto";7351;7351
-"410140 Apucarana";120919;120919
-"410150 Arapongas";104150;104150
-"410160 Arapoti";25855;25855
-"410165 Arapu„";3561;3561
-"410170 Araruna";13419;13419
-"410180 Arauc·ria";119123;119123
-"410185 Ariranha do IvaÌ";2453;2453
-"410190 AssaÌ";16354;16354
-"410200 Assis Chateaubriand";33025;33025
-"410210 Astorga";24698;24698
-"410220 Atalaia";3913;3913
-"410230 Balsa Nova";11300;11300
-"410240 Bandeirantes";32184;32184
-"410250 Barbosa Ferraz";12656;12656
-"410270 Barra do JacarÈ";2727;2727
-"410260 Barrac„o";9735;9735
-"410275 Bela Vista da Caroba";3945;3945
-"410280 Bela Vista do ParaÌso";15079;15079
-"410290 Bituruna";15880;15880
-"410300 Boa EsperanÁa";4568;4568
-"410302 Boa EsperanÁa do IguaÁu";2764;2764
-"410304 Boa Ventura de S„o Roque";6554;6554
-"410305 Boa Vista da Aparecida";7911;7911
-"410310 Bocai˙va do Sul";10987;10987
-"410315 Bom Jesus do Sul";3796;3796
-"410320 Bom Sucesso";6561;6561
-"410322 Bom Sucesso do Sul";3293;3293
-"410330 BorrazÛpolis";7878;7878
-"410335 Braganey";5735;5735
-"410337 Brasil‚ndia do Sul";3209;3209
-"410340 Cafeara";2695;2695
-"410345 Cafel‚ndia";14662;14662
-"410347 Cafezal do Sul";4290;4290
-"410350 CalifÛrnia";8069;8069
-"410360 Cambar·";23886;23886
-"410370 CambÈ";96733;96733
-"410380 Cambira";7236;7236
-"410390 Campina da Lagoa";15394;15394
-"410395 Campina do Sim„o";4076;4076
-"410400 Campina Grande do Sul";38769;38769
-"410405 Campo Bonito";4407;4407
-"410410 Campo do Tenente";7125;7125
-"410420 Campo Largo";112377;112377
-"410425 Campo Magro";24843;24843
-"410430 Campo Mour„o";87194;87194
-"410440 C‚ndido de Abreu";16655;16655
-"410442 CandÛi";14983;14983
-"410445 Cantagalo";12952;12952
-"410450 Capanema";18526;18526
-"410460 Capit„o LeÙnidas Marques";14970;14970
-"410465 CarambeÌ";19163;19163
-"410470 CarlÛpolis";13706;13706
-"410480 Cascavel";286205;286205
-"410490 Castro";67084;67084
-"410500 Catanduvas";10202;10202
-"410510 Centen·rio do Sul";11190;11190
-"410520 Cerro Azul";16938;16938
-"410530 CÈu Azul";11032;11032
-"410540 Chopinzinho";19679;19679
-"410550 Cianorte";69958;69958
-"410560 Cidade Ga˙cha";11062;11062
-"410570 Clevel‚ndia";17240;17240
-"410580 Colombo";212967;212967
-"410590 Colorado";22345;22345
-"410600 Congonhinhas";8279;8279
-"410610 Conselheiro Mairinck";3636;3636
-"410620 Contenda";15891;15891
-"410630 CorbÈlia";16312;16312
-"410640 CornÈlio ProcÛpio";46928;46928
-"410645 Coronel Domingos Soares";7238;7238
-"410650 Coronel Vivida";21749;21749
-"410655 CorumbataÌ do Sul";4002;4002
-"410680 Cruz Machado";18040;18040
-"410657 Cruzeiro do IguaÁu";4278;4278
-"410660 Cruzeiro do Oeste";20416;20416
-"410670 Cruzeiro do Sul";4563;4563
-"410685 Cruzmaltina";3162;3162
-"410690 Curitiba";1751907;1751907
-"410700 Curi˙va";13923;13923
-"410715 Diamante D'Oeste";5027;5027
-"410710 Diamante do Norte";5516;5516
-"410712 Diamante do Sul";3510;3510
-"410720 Dois Vizinhos";36179;36179
-"410725 Douradina";7445;7445
-"410730 Doutor Camargo";5828;5828
-"412863 Doutor Ulysses";5727;5727
-"410740 EnÈas Marques";6103;6103
-"410750 Engenheiro Beltr„o";13906;13906
-"410753 Entre Rios do Oeste";3926;3926
-"410752 EsperanÁa Nova";1970;1970
-"410754 Espig„o Alto do IguaÁu";4677;4677
-"410755 Farol";3472;3472
-"410760 Faxinal";16314;16314
-"410765 Fazenda Rio Grande";81675;81675
-"410770 FÍnix";4802;4802
-"410773 Fernandes Pinheiro";5932;5932
-"410775 Figueira";8293;8293
-"410785 Flor da Serra do Sul";4726;4726
-"410780 FloraÌ";5050;5050
-"410790 Floresta";5931;5931
-"410800 FlorestÛpolis";11222;11222
-"410810 FlÛrida";2543;2543
-"410820 Formosa do Oeste";7541;7541
-"410830 Foz do IguaÁu";256088;256088
-"410845 Foz do Jord„o";5420;5420
-"410832 Francisco Alves";6418;6418
-"410840 Francisco Beltr„o";78943;78943
-"410850 General Carneiro";13669;13669
-"410855 Godoy Moreira";3337;3337
-"410860 GoioerÍ";29018;29018
-"410865 Goioxim";7503;7503
-"410870 Grandes Rios";6625;6625
-"410880 GuaÌra";30704;30704
-"410890 GuairaÁ·";6197;6197
-"410895 Guamiranga";7900;7900
-"410900 Guapirama";3891;3891
-"410910 Guaporema";2219;2219
-"410920 Guaraci";5227;5227
-"410930 GuaraniaÁu";14582;14582
-"410940 Guarapuava";167328;167328
-"410950 GuaraqueÁaba";7871;7871
-"410960 Guaratuba";32095;32095
-"410965 HonÛrio Serpa";5955;5955
-"410970 Ibaiti";28751;28751
-"410975 Ibema";6066;6066
-"410980 Ibipor„";48198;48198
-"410990 IcaraÌma";8839;8839
-"411000 IguaraÁu";3982;3982
-"411005 Iguatu";2234;2234
-"411007 Imba˙";11274;11274
-"411010 Imbituva";28455;28455
-"411020 In·cio Martins";10943;10943
-"411030 Inaj·";2988;2988
-"411040 IndianÛpolis";4299;4299
-"411050 Ipiranga";14150;14150
-"411060 Ipor„";14981;14981
-"411065 Iracema do Oeste";2578;2578
-"411070 Irati";56207;56207
-"411080 Iretama";10622;10622
-"411090 ItaguajÈ";4568;4568
-"411095 Itaipul‚ndia";9026;9026
-"411100 Itambarac·";6759;6759
-"411110 ItambÈ";5979;5979
-"411120 Itapejara d'Oeste";10531;10531
-"411125 ItaperuÁu";23887;23887
-"411130 Ita˙na do Sul";3583;3583
-"411140 IvaÌ";12815;12815
-"411150 Ivaipor„";31816;31816
-"411155 IvatÈ";7514;7514
-"411160 Ivatuba";3010;3010
-"411170 Jaboti";4902;4902
-"411180 Jacarezinho";39121;39121
-"411190 Jaguapit„";12225;12225
-"411200 JaguariaÌva";32606;32606
-"411210 Jandaia do Sul";20269;20269
-"411220 JaniÛpolis";6532;6532
-"411230 Japira";4903;4903
-"411240 Japur·";8549;8549
-"411250 Jardim Alegre";12324;12324
-"411260 Jardim Olinda";1409;1409
-"411270 Jataizinho";11875;11875
-"411275 JesuÌtas";9001;9001
-"411280 Joaquim T·vora";10736;10736
-"411290 JundiaÌ do Sul";3433;3433
-"411295 Juranda";7641;7641
-"411300 Jussara";6610;6610
-"411310 KalorÈ";4506;4506
-"411320 Lapa";44932;44932
-"411325 Laranjal";6360;6360
-"411330 Laranjeiras do Sul";30777;30777
-"411340 LeÛpolis";4145;4145
-"411342 LidianÛpolis";3973;3973
-"411345 Lindoeste";5361;5361
-"411350 Loanda";21201;21201
-"411360 Lobato";4401;4401
-"411370 Londrina";506701;506701
-"411373 Luiziana";7315;7315
-"411375 Lunardelli";5160;5160
-"411380 LupionÛpolis";4592;4592
-"411390 Mallet";12973;12973
-"411400 MamborÍ";13961;13961
-"411410 MandaguaÁu";19781;19781
-"411420 Mandaguari";32658;32658
-"411430 Mandirituba";22220;22220
-"411435 ManfrinÛpolis";3127;3127
-"411440 Mangueirinha";17048;17048
-"411450 Manoel Ribas";13169;13169
-"411460 Marechal C‚ndido Rondon";46819;46819
-"411470 Maria Helena";5956;5956
-"411480 Marialva";31959;31959
-"411490 Maril‚ndia do Sul";8863;8863
-"411500 Marilena";6858;6858
-"411510 Mariluz";10224;10224
-"411520 Maring·";357077;357077
-"411530 MariÛpolis";6268;6268
-"411535 Marip·";5684;5684
-"411540 Marmeleiro";13900;13900
-"411545 Marquinho";4981;4981
-"411550 Marumbi";4603;4603
-"411560 Matel‚ndia";16078;16078
-"411570 Matinhos";29428;29428
-"411573 Mato Rico";3818;3818
-"411575 Mau· da Serra";8555;8555
-"411580 Medianeira";41817;41817
-"411585 Mercedes";5046;5046
-"411590 Mirador";2327;2327
-"411600 Miraselva";1862;1862
-"411605 Missal";10474;10474
-"411610 Moreira Sales";12606;12606
-"411620 Morretes";15718;15718
-"411630 Munhoz de Melo";3672;3672
-"411640 Nossa Senhora das GraÁas";3836;3836
-"411650 Nova AlianÁa do IvaÌ";1431;1431
-"411660 Nova AmÈrica da Colina";3478;3478
-"411670 Nova Aurora";11866;11866
-"411680 Nova Cantu";7425;7425
-"411690 Nova EsperanÁa";26615;26615
-"411695 Nova EsperanÁa do Sudoeste";5098;5098
-"411700 Nova F·tima";8147;8147
-"411705 Nova Laranjeiras";11241;11241
-"411710 Nova Londrina";13067;13067
-"411720 Nova OlÌmpia";5503;5503
-"411725 Nova Prata do IguaÁu";10377;10377
-"411721 Nova Santa B·rbara";3908;3908
-"411722 Nova Santa Rosa";7626;7626
-"411727 Nova Tebas";7398;7398
-"411729 Novo Itacolomi";2827;2827
-"411730 Ortigueira";23380;23380
-"411740 Ourizona";3380;3380
-"411745 Ouro Verde do Oeste";5692;5692
-"411750 PaiÁandu";35936;35936
-"411760 Palmas";42888;42888
-"411770 Palmeira";32123;32123
-"411780 Palmital";14865;14865
-"411790 Palotina";28683;28683
-"411800 ParaÌso do Norte";11772;11772
-"411810 Paranacity";10250;10250
-"411820 Paranagu·";140469;140469
-"411830 Paranapoema";2791;2791
-"411840 ParanavaÌ";81590;81590
-"411845 Pato Bragado";4822;4822
-"411850 Pato Branco";72370;72370
-"411860 Paula Freitas";5434;5434
-"411870 Paulo Frontin";6913;6913
-"411880 Peabiru";13624;13624
-"411885 Perobal";5653;5653
-"411890 PÈrola";10208;10208
-"411900 PÈrola d'Oeste";6761;6761
-"411910 PiÍn";11236;11236
-"411915 Pinhais";117008;117008
-"411925 Pinhal de S„o Bento";2625;2625
-"411920 Pinhal„o";6215;6215
-"411930 Pinh„o";30208;30208
-"411940 PiraÌ do Sul";23424;23424
-"411950 Piraquara";93207;93207
-"411960 Pitanga";32638;32638
-"411965 Pitangueiras";2814;2814
-"411970 Planaltina do Paran·";4095;4095
-"411980 Planalto";13654;13654
-"411990 Ponta Grossa";311611;311611
-"411995 Pontal do Paran·";20920;20920
-"412000 Porecatu";14189;14189
-"412010 Porto Amazonas";4514;4514
-"412015 Porto Barreiro";3663;3663
-"412020 Porto Rico";2530;2530
-"412030 Porto VitÛria";4020;4020
-"412033 Prado Ferreira";3434;3434
-"412035 Pranchita";5628;5628
-"412040 Presidente Castelo Branco";4784;4784
-"412050 Primeiro de Maio";10832;10832
-"412060 PrudentÛpolis";48792;48792
-"412065 Quarto Centen·rio";4856;4856
-"412070 Quatigu·";7045;7045
-"412080 Quatro Barras";19851;19851
-"412085 Quatro Pontes";3803;3803
-"412090 Quedas do IguaÁu";30605;30605
-"412100 QuerÍncia do Norte";11729;11729
-"412110 Quinta do Sol";5088;5088
-"412120 Quitandinha";17089;17089
-"412125 Ramil‚ndia";4134;4134
-"412130 Rancho Alegre";3955;3955
-"412135 Rancho Alegre D'Oeste";2847;2847
-"412140 Realeza";16338;16338
-"412150 RebouÁas";14176;14176
-"412160 RenascenÁa";6812;6812
-"412170 Reserva";25172;25172
-"412175 Reserva do IguaÁu";7307;7307
-"412180 Ribeir„o Claro";10678;10678
-"412190 Ribeir„o do Pinhal";13524;13524
-"412200 Rio Azul";14093;14093
-"412210 Rio Bom";3334;3334
-"412215 Rio Bonito do IguaÁu";13661;13661
-"412217 Rio Branco do IvaÌ";3898;3898
-"412220 Rio Branco do Sul";30650;30650
-"412230 Rio Negro";31274;31274
-"412240 Rol‚ndia";57862;57862
-"412250 Roncador";11537;11537
-"412260 Rondon";8996;8996
-"412265 Ros·rio do IvaÌ";5588;5588
-"412270 Sab·udia";6096;6096
-"412280 Salgado Filho";4403;4403
-"412290 Salto do ItararÈ";5178;5178
-"412300 Salto do Lontra";13689;13689
-"412310 Santa AmÈlia";3803;3803
-"412320 Santa CecÌlia do Pav„o";3646;3646
-"412330 Santa Cruz de Monte Castelo";8092;8092
-"412340 Santa FÈ";10432;10432
-"412350 Santa Helena";23413;23413
-"412360 Santa InÍs";1818;1818
-"412370 Santa Isabel do IvaÌ";8760;8760
-"412380 Santa Izabel do Oeste";13132;13132
-"412382 Santa L˙cia";3925;3925
-"412385 Santa Maria do Oeste";11500;11500
-"412390 Santa Mariana";12435;12435
-"412395 Santa MÙnica";3571;3571
-"412402 Santa Tereza do Oeste";10332;10332
-"412405 Santa Terezinha de Itaipu";20841;20841
-"412400 Santana do ItararÈ";5249;5249
-"412410 Santo AntÙnio da Platina";42707;42707
-"412420 Santo AntÙnio do Caiu·";2727;2727
-"412430 Santo AntÙnio do ParaÌso";2408;2408
-"412440 Santo AntÙnio do Sudoeste";18893;18893
-"412450 Santo In·cio";5269;5269
-"412460 S„o Carlos do IvaÌ";6354;6354
-"412470 S„o JerÙnimo da Serra";11337;11337
-"412480 S„o Jo„o";10599;10599
-"412490 S„o Jo„o do Caiu·";5911;5911
-"412500 S„o Jo„o do IvaÌ";11525;11525
-"412510 S„o Jo„o do Triunfo";13704;13704
-"412520 S„o Jorge d'Oeste";9085;9085
-"412530 S„o Jorge do IvaÌ";5517;5517
-"412535 S„o Jorge do PatrocÌnio";6041;6041
-"412540 S„o JosÈ da Boa Vista";6511;6511
-"412545 S„o JosÈ das Palmeiras";3830;3830
-"412550 S„o JosÈ dos Pinhais";264210;264210
-"412555 S„o Manoel do Paran·";2098;2098
-"412560 S„o Mateus do Sul";41257;41257
-"412570 S„o Miguel do IguaÁu";25769;25769
-"412575 S„o Pedro do IguaÁu";6491;6491
-"412580 S„o Pedro do IvaÌ";10167;10167
-"412590 S„o Pedro do Paran·";2491;2491
-"412600 S„o Sebasti„o da Amoreira";8626;8626
-"412610 S„o TomÈ";5349;5349
-"412620 Sapopema";6736;6736
-"412625 Sarandi";82847;82847
-"412627 Saudade do IguaÁu";5028;5028
-"412630 SengÈs";18414;18414
-"412635 SerranÛpolis do IguaÁu";4568;4568
-"412640 Sertaneja";5817;5817
-"412650 SertanÛpolis";15638;15638
-"412660 Siqueira Campos";18454;18454
-"412665 Sulina";3394;3394
-"412667 Tamarana";12262;12262
-"412670 Tamboara";4664;4664
-"412680 Tapejara";14598;14598
-"412690 Tapira";5836;5836
-"412700 Teixeira Soares";10283;10283
-"412710 TelÍmaco Borba";69872;69872
-"412720 Terra Boa";15776;15776
-"412730 Terra Rica";15221;15221
-"412740 Terra Roxa";16759;16759
-"412750 Tibagi";19344;19344
-"412760 Tijucas do Sul";14537;14537
-"412770 Toledo";119313;119313
-"412780 Tomazina";8791;8791
-"412785 TrÍs Barras do Paran·";11824;11824
-"412788 Tunas do Paran·";6256;6256
-"412790 Tuneiras do Oeste";8695;8695
-"412795 Tup„ssi";7997;7997
-"412796 Turvo";13811;13811
-"412800 Ubirat„";21558;21558
-"412810 Umuarama";100676;100676
-"412820 Uni„o da VitÛria";52735;52735
-"412830 Uniflor";2466;2466
-"412840 UraÌ";11472;11472
-"412853 Ventania";9957;9957
-"412855 Vera Cruz do Oeste";8973;8973
-"412860 VerÍ";7878;7878
-"412865 Virmond";3950;3950
-"412870 Vitorino";6513;6513
-"412850 Wenceslau Braz";19298;19298
-"412880 XambrÍ";6012;6012
-"Total";10444526;10444526
- Fontes:
- 
- 1980, 1991, 2000 e 2010: IBGE - Censos Demogr·ficos
- 1996: IBGE - Contagem Populacional
- 1981-1990, 1992-1999, 2001-2006: IBGE - Estimativas preliminares para os anos intercensit·rios dos totais populacionais, estratificadas por idade e sexo pelo MS/SGEP/Datasus.
- 2007-2009: IBGE - Estimativas elaboradas no ‚mbito do Projeto UNFPA/IBGE (BRA/4/P31A) - PopulaÁ„o e Desenvolvimento. CoordenaÁ„o de PopulaÁ„o e Indicadores Sociais.
- 2011-2012: IBGE - Estimativas populacionais enviadas para o TCU, estratificadas por idade e sexo pelo MS/SGEP/Datasus.
- 
- Para alguns anos, os dados aqui apresentados n„o s„o compar·veis com as
- 
- estimativas populacionais fornecidas ao TCU, devido a diferenÁas metodolÛgicas para estimar e projetar os contingentes populacionais.
- Veja a nota tÈcnica para detalhes da metodologia.
- Consulte o site da Secretaria Estadual de Sa˙de para mais informaÁıes.
+POP_2010,ID_MUN_RES,MUNICIPIO
+7764,410010,Abati√°
+6376,410020,Adrian√≥polis
+8270,410030,Agudos do Sul
+103204,410040,Almirante Tamandar√©
+4306,410045,Altamira do Paran√°
+3206,412862,Alto Para√≠so
+13663,410060,Alto Paran√°
+10179,410070,Alto Piquiri
+20516,410050,Alt√¥nia
+10283,410080,Alvorada do Sul
+5443,410090,Amapor√£
+17308,410100,Amp√©re
+2874,410105,Anahy
+20610,410110,Andir√°
+2859,410115,√Çngulo
+18891,410120,Antonina
+7351,410130,Ant√¥nio Olinto
+120919,410140,Apucarana
+104150,410150,Arapongas
+25855,410160,Arapoti
+3561,410165,Arapu√£
+13419,410170,Araruna
+119123,410180,Arauc√°ria
+2453,410185,Ariranha do Iva√≠
+16354,410190,Assa√≠
+33025,410200,Assis Chateaubriand
+24698,410210,Astorga
+3913,410220,Atalaia
+11300,410230,Balsa Nova
+32184,410240,Bandeirantes
+12656,410250,Barbosa Ferraz
+2727,410270,Barra do Jacar√©
+9735,410260,Barrac√£o
+3945,410275,Bela Vista da Caroba
+15079,410280,Bela Vista do Para√≠so
+15880,410290,Bituruna
+4568,410300,Boa Esperan√ßa
+2764,410302,Boa Esperan√ßa do Igua√ßu
+6554,410304,Boa Ventura de S√£o Roque
+7911,410305,Boa Vista da Aparecida
+10987,410310,Bocai√∫va do Sul
+3796,410315,Bom Jesus do Sul
+6561,410320,Bom Sucesso
+3293,410322,Bom Sucesso do Sul
+7878,410330,Borraz√≥polis
+5735,410335,Braganey
+3209,410337,Brasil√¢ndia do Sul
+2695,410340,Cafeara
+14662,410345,Cafel√¢ndia
+4290,410347,Cafezal do Sul
+8069,410350,Calif√≥rnia
+23886,410360,Cambar√°
+96733,410370,Camb√©
+7236,410380,Cambira
+15394,410390,Campina da Lagoa
+4076,410395,Campina do Sim√£o
+38769,410400,Campina Grande do Sul
+4407,410405,Campo Bonito
+7125,410410,Campo do Tenente
+112377,410420,Campo Largo
+24843,410425,Campo Magro
+87194,410430,Campo Mour√£o
+16655,410440,C√¢ndido de Abreu
+14983,410442,Cand√≥i
+12952,410445,Cantagalo
+18526,410450,Capanema
+14970,410460,Capit√£o Le√¥nidas Marques
+19163,410465,Carambe√≠
+13706,410470,Carl√≥polis
+286205,410480,Cascavel
+67084,410490,Castro
+10202,410500,Catanduvas
+11190,410510,Centen√°rio do Sul
+16938,410520,Cerro Azul
+11032,410530,C√©u Azul
+19679,410540,Chopinzinho
+69958,410550,Cianorte
+11062,410560,Cidade Ga√∫cha
+17240,410570,Clevel√¢ndia
+212967,410580,Colombo
+22345,410590,Colorado
+8279,410600,Congonhinhas
+3636,410610,Conselheiro Mairinck
+15891,410620,Contenda
+16312,410630,Corb√©lia
+46928,410640,Corn√©lio Proc√≥pio
+7238,410645,Coronel Domingos Soares
+21749,410650,Coronel Vivida
+4002,410655,Corumbata√≠ do Sul
+18040,410680,Cruz Machado
+4278,410657,Cruzeiro do Igua√ßu
+20416,410660,Cruzeiro do Oeste
+4563,410670,Cruzeiro do Sul
+3162,410685,Cruzmaltina
+1751907,410690,Curitiba
+13923,410700,Curi√∫va
+5027,410715,Diamante D'Oeste
+5516,410710,Diamante do Norte
+3510,410712,Diamante do Sul
+36179,410720,Dois Vizinhos
+7445,410725,Douradina
+5828,410730,Doutor Camargo
+5727,412863,Doutor Ulysses
+6103,410740,En√©as Marques
+13906,410750,Engenheiro Beltr√£o
+3926,410753,Entre Rios do Oeste
+1970,410752,Esperan√ßa Nova
+4677,410754,Espig√£o Alto do Igua√ßu
+3472,410755,Farol
+16314,410760,Faxinal
+81675,410765,Fazenda Rio Grande
+4802,410770,F√™nix
+5932,410773,Fernandes Pinheiro
+8293,410775,Figueira
+4726,410785,Flor da Serra do Sul
+5050,410780,Flora√≠
+5931,410790,Floresta
+11222,410800,Florest√≥polis
+2543,410810,Fl√≥rida
+7541,410820,Formosa do Oeste
+256088,410830,Foz do Igua√ßu
+5420,410845,Foz do Jord√£o
+6418,410832,Francisco Alves
+78943,410840,Francisco Beltr√£o
+13669,410850,General Carneiro
+3337,410855,Godoy Moreira
+29018,410860,Goioer√™
+7503,410865,Goioxim
+6625,410870,Grandes Rios
+30704,410880,Gua√≠ra
+6197,410890,Guaira√ß√°
+7900,410895,Guamiranga
+3891,410900,Guapirama
+2219,410910,Guaporema
+5227,410920,Guaraci
+14582,410930,Guarania√ßu
+167328,410940,Guarapuava
+7871,410950,Guaraque√ßaba
+32095,410960,Guaratuba
+5955,410965,Hon√≥rio Serpa
+28751,410970,Ibaiti
+6066,410975,Ibema
+48198,410980,Ibipor√£
+8839,410990,Icara√≠ma
+3982,411000,Iguara√ßu
+2234,411005,Iguatu
+11274,411007,Imba√∫
+28455,411010,Imbituva
+10943,411020,In√°cio Martins
+2988,411030,Inaj√°
+4299,411040,Indian√≥polis
+14150,411050,Ipiranga
+14981,411060,Ipor√£
+2578,411065,Iracema do Oeste
+56207,411070,Irati
+10622,411080,Iretama
+4568,411090,Itaguaj√©
+9026,411095,Itaipul√¢ndia
+6759,411100,Itambarac√°
+5979,411110,Itamb√©
+10531,411120,Itapejara d'Oeste
+23887,411125,Itaperu√ßu
+3583,411130,Ita√∫na do Sul
+12815,411140,Iva√≠
+31816,411150,Ivaipor√£
+7514,411155,Ivat√©
+3010,411160,Ivatuba
+4902,411170,Jaboti
+39121,411180,Jacarezinho
+12225,411190,Jaguapit√£
+32606,411200,Jaguaria√≠va
+20269,411210,Jandaia do Sul
+6532,411220,Jani√≥polis
+4903,411230,Japira
+8549,411240,Japur√°
+12324,411250,Jardim Alegre
+1409,411260,Jardim Olinda
+11875,411270,Jataizinho
+9001,411275,Jesu√≠tas
+10736,411280,Joaquim T√°vora
+3433,411290,Jundia√≠ do Sul
+7641,411295,Juranda
+6610,411300,Jussara
+4506,411310,Kalor√©
+44932,411320,Lapa
+6360,411325,Laranjal
+30777,411330,Laranjeiras do Sul
+4145,411340,Le√≥polis
+3973,411342,Lidian√≥polis
+5361,411345,Lindoeste
+21201,411350,Loanda
+4401,411360,Lobato
+506701,411370,Londrina
+7315,411373,Luiziana
+5160,411375,Lunardelli
+4592,411380,Lupion√≥polis
+12973,411390,Mallet
+13961,411400,Mambor√™
+19781,411410,Mandagua√ßu
+32658,411420,Mandaguari
+22220,411430,Mandirituba
+3127,411435,Manfrin√≥polis
+17048,411440,Mangueirinha
+13169,411450,Manoel Ribas
+46819,411460,Marechal C√¢ndido Rondon
+5956,411470,Maria Helena
+31959,411480,Marialva
+8863,411490,Maril√¢ndia do Sul
+6858,411500,Marilena
+10224,411510,Mariluz
+357077,411520,Maring√°
+6268,411530,Mari√≥polis
+5684,411535,Marip√°
+13900,411540,Marmeleiro
+4981,411545,Marquinho
+4603,411550,Marumbi
+16078,411560,Matel√¢ndia
+29428,411570,Matinhos
+3818,411573,Mato Rico
+8555,411575,Mau√° da Serra
+41817,411580,Medianeira
+5046,411585,Mercedes
+2327,411590,Mirador
+1862,411600,Miraselva
+10474,411605,Missal
+12606,411610,Moreira Sales
+15718,411620,Morretes
+3672,411630,Munhoz de Melo
+3836,411640,Nossa Senhora das Gra√ßas
+1431,411650,Nova Alian√ßa do Iva√≠
+3478,411660,Nova Am√©rica da Colina
+11866,411670,Nova Aurora
+7425,411680,Nova Cantu
+26615,411690,Nova Esperan√ßa
+5098,411695,Nova Esperan√ßa do Sudoeste
+8147,411700,Nova F√°tima
+11241,411705,Nova Laranjeiras
+13067,411710,Nova Londrina
+5503,411720,Nova Ol√≠mpia
+10377,411725,Nova Prata do Igua√ßu
+3908,411721,Nova Santa B√°rbara
+7626,411722,Nova Santa Rosa
+7398,411727,Nova Tebas
+2827,411729,Novo Itacolomi
+23380,411730,Ortigueira
+3380,411740,Ourizona
+5692,411745,Ouro Verde do Oeste
+35936,411750,Pai√ßandu
+42888,411760,Palmas
+32123,411770,Palmeira
+14865,411780,Palmital
+28683,411790,Palotina
+11772,411800,Para√≠so do Norte
+10250,411810,Paranacity
+140469,411820,Paranagu√°
+2791,411830,Paranapoema
+81590,411840,Paranava√≠
+4822,411845,Pato Bragado
+72370,411850,Pato Branco
+5434,411860,Paula Freitas
+6913,411870,Paulo Frontin
+13624,411880,Peabiru
+5653,411885,Perobal
+10208,411890,P√©rola
+6761,411900,P√©rola d'Oeste
+11236,411910,Pi√™n
+117008,411915,Pinhais
+2625,411925,Pinhal de S√£o Bento
+6215,411920,Pinhal√£o
+30208,411930,Pinh√£o
+23424,411940,Pira√≠ do Sul
+93207,411950,Piraquara
+32638,411960,Pitanga
+2814,411965,Pitangueiras
+4095,411970,Planaltina do Paran√°
+13654,411980,Planalto
+311611,411990,Ponta Grossa
+20920,411995,Pontal do Paran√°
+14189,412000,Porecatu
+4514,412010,Porto Amazonas
+3663,412015,Porto Barreiro
+2530,412020,Porto Rico
+4020,412030,Porto Vit√≥ria
+3434,412033,Prado Ferreira
+5628,412035,Pranchita
+4784,412040,Presidente Castelo Branco
+10832,412050,Primeiro de Maio
+48792,412060,Prudent√≥polis
+4856,412065,Quarto Centen√°rio
+7045,412070,Quatigu√°
+19851,412080,Quatro Barras
+3803,412085,Quatro Pontes
+30605,412090,Quedas do Igua√ßu
+11729,412100,Quer√™ncia do Norte
+5088,412110,Quinta do Sol
+17089,412120,Quitandinha
+4134,412125,Ramil√¢ndia
+3955,412130,Rancho Alegre
+2847,412135,Rancho Alegre D'Oeste
+16338,412140,Realeza
+14176,412150,Rebou√ßas
+6812,412160,Renascen√ßa
+25172,412170,Reserva
+7307,412175,Reserva do Igua√ßu
+10678,412180,Ribeir√£o Claro
+13524,412190,Ribeir√£o do Pinhal
+14093,412200,Rio Azul
+3334,412210,Rio Bom
+13661,412215,Rio Bonito do Igua√ßu
+3898,412217,Rio Branco do Iva√≠
+30650,412220,Rio Branco do Sul
+31274,412230,Rio Negro
+57862,412240,Rol√¢ndia
+11537,412250,Roncador
+8996,412260,Rondon
+5588,412265,Ros√°rio do Iva√≠
+6096,412270,Sab√°udia
+4403,412280,Salgado Filho
+5178,412290,Salto do Itarar√©
+13689,412300,Salto do Lontra
+3803,412310,Santa Am√©lia
+3646,412320,Santa Cec√≠lia do Pav√£o
+8092,412330,Santa Cruz de Monte Castelo
+10432,412340,Santa F√©
+23413,412350,Santa Helena
+1818,412360,Santa In√™s
+8760,412370,Santa Isabel do Iva√≠
+13132,412380,Santa Izabel do Oeste
+3925,412382,Santa L√∫cia
+11500,412385,Santa Maria do Oeste
+12435,412390,Santa Mariana
+3571,412395,Santa M√¥nica
+10332,412402,Santa Tereza do Oeste
+20841,412405,Santa Terezinha de Itaipu
+5249,412400,Santana do Itarar√©
+42707,412410,Santo Ant√¥nio da Platina
+2727,412420,Santo Ant√¥nio do Caiu√°
+2408,412430,Santo Ant√¥nio do Para√≠so
+18893,412440,Santo Ant√¥nio do Sudoeste
+5269,412450,Santo In√°cio
+6354,412460,S√£o Carlos do Iva√≠
+11337,412470,S√£o Jer√¥nimo da Serra
+10599,412480,S√£o Jo√£o
+5911,412490,S√£o Jo√£o do Caiu√°
+11525,412500,S√£o Jo√£o do Iva√≠
+13704,412510,S√£o Jo√£o do Triunfo
+9085,412520,S√£o Jorge d'Oeste
+5517,412530,S√£o Jorge do Iva√≠
+6041,412535,S√£o Jorge do Patroc√≠nio
+6511,412540,S√£o Jos√© da Boa Vista
+3830,412545,S√£o Jos√© das Palmeiras
+264210,412550,S√£o Jos√© dos Pinhais
+2098,412555,S√£o Manoel do Paran√°
+41257,412560,S√£o Mateus do Sul
+25769,412570,S√£o Miguel do Igua√ßu
+6491,412575,S√£o Pedro do Igua√ßu
+10167,412580,S√£o Pedro do Iva√≠
+2491,412590,S√£o Pedro do Paran√°
+8626,412600,S√£o Sebasti√£o da Amoreira
+5349,412610,S√£o Tom√©
+6736,412620,Sapopema
+82847,412625,Sarandi
+5028,412627,Saudade do Igua√ßu
+18414,412630,Seng√©s
+4568,412635,Serran√≥polis do Igua√ßu
+5817,412640,Sertaneja
+15638,412650,Sertan√≥polis
+18454,412660,Siqueira Campos
+3394,412665,Sulina
+12262,412667,Tamarana
+4664,412670,Tamboara
+14598,412680,Tapejara
+5836,412690,Tapira
+10283,412700,Teixeira Soares
+69872,412710,Tel√™maco Borba
+15776,412720,Terra Boa
+15221,412730,Terra Rica
+16759,412740,Terra Roxa
+19344,412750,Tibagi
+14537,412760,Tijucas do Sul
+119313,412770,Toledo
+8791,412780,Tomazina
+11824,412785,Tr√™s Barras do Paran√°
+6256,412788,Tunas do Paran√°
+8695,412790,Tuneiras do Oeste
+7997,412795,Tup√£ssi
+13811,412796,Turvo
+21558,412800,Ubirat√£
+100676,412810,Umuarama
+52735,412820,Uni√£o da Vit√≥ria
+2466,412830,Uniflor
+11472,412840,Ura√≠
+9957,412853,Ventania
+8973,412855,Vera Cruz do Oeste
+7878,412860,Ver√™
+3950,412865,Virmond
+6513,412870,Vitorino
+19298,412850,Wenceslau Braz
+6012,412880,Xambr√™
